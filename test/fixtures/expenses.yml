@@ -1,0 +1,24 @@
+# == Schema Information
+#
+# Table name: expenses
+#
+#  id          :integer          not null, primary key
+#  amoun       :decimal(, )
+#  date        :date
+#  description :string
+#  type        :integer
+#  created_at  :datetime         not null
+#  updated_at  :datetime         not null
+#
+
+one:
+  date: 2023-06-15
+  description: MyString
+  type: 1
+  amoun: 9.99
+
+two:
+  date: 2023-06-15
+  description: MyString
+  type: 1
+  amoun: 9.99
